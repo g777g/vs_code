@@ -33,6 +33,7 @@
     "editor.stickyScroll.enabled": false,
 
     "workbench.colorCustomizations": {
+        "editor.background": "#282A36",
         "editorCursor.background": "#000000",
         "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
         "editorOverviewRuler.selectionHighlightForeground": "#0000",
